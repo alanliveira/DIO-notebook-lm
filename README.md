@@ -119,11 +119,11 @@ Além das notas, utilizei a área **Studio** como parte da organização do conh
 
 | Material | Formato | Finalidade | Acesso no repositório |
 | --- | --- | --- | --- |
-| **Mapa mental** | PNG | Visualizar relações entre os conceitos estudados | [Ver mapa mental](materiais/mapa-mental.png) |
-| **Slides** | PDF | Apresentar uma síntese organizada da pesquisa | [Ver slides](materiais/slides.pdf) |
-| **Vídeo curto** | Vídeo | Apresentar de forma breve os principais pontos do segundo cérebro | [Ver vídeo curto](materiais/video-curto.mp4) |
+| **Mapa mental** | PNG | Visualizar relações entre os conceitos estudados | [Ver mapa mental](materiais/NotebookLM%20Mind%20Map.png) |
+| **Slides** | PPTX | Apresentar uma síntese organizada da pesquisa | [Ver apresentação](materiais/A_Nova_Era_das_Entrevistas_de_TI.pptx) |
+| **Vídeo curto** | MP4 | Apresentar de forma breve os principais pontos do segundo cérebro | [Ver vídeo curto](materiais/O_Fim_do_LeetCode_e_o_Novo_Engenheiro_de_Software.mp4) |
 
-**Vídeo curto:** este é um dos materiais previstos para a apresentação do projeto. O link acima pressupõe a inclusão do arquivo `materiais/video-curto.mp4`; caso o vídeo seja publicado em uma plataforma externa, o link deverá ser substituído pela URL definitiva.
+**Vídeo curto:** o arquivo `O_Fim_do_LeetCode_e_o_Novo_Engenheiro_de_Software.mp4` compõe os materiais do Studio e apresenta o tema em formato audiovisual.
 
 ## 8. Organização dos arquivos e rastreabilidade
 
@@ -143,9 +143,9 @@ Os registros são mantidos em dois locais:
 │   ├── 03-carreira-tech-inteligente.pdf
 │   └── 04-roteiro-tecnologico.pdf
 └── materiais/
-    ├── mapa-mental.png
-    ├── slides.pdf
-    └── video-curto.mp4
+    ├── NotebookLM Mind Map.png
+    ├── A_Nova_Era_das_Entrevistas_de_TI.pptx
+    └── O_Fim_do_LeetCode_e_o_Novo_Engenheiro_de_Software.mp4
 ```
 
 > **Importante sobre os links:** os caminhos relativos acima dependem de os arquivos terem exatamente esses nomes e de serem adicionados nessas pastas. Até isso acontecer, os links não abrirão os materiais. Os PDFs das notas são as principais evidências exportadas; confirme se mostram as fontes ou complemente com capturas das citações, se necessário.
