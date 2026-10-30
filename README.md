@@ -74,10 +74,10 @@ Assim, quem visita o repositório pode consultar os registros exportados sem dep
 
 | # | Pergunta feita ao NotebookLM | Nota | Evidência em PDF |
 | --- | --- | --- | --- |
-| 01 | Como é o scripts das entrevista de emprego? | **01 - Engenharia Moderna** | [Consultar nota 01](evidencias/01 - Engenharia Moderna.pdf) |
-| 02 | Como usar IA sem errar no código? | **02 - Prompting Eficiente** | [Consultar nota 02](evidencias/02 - Prompting Eficiente.pdf) |
-| 03 | Quero saber mais sobre essas fontes usando o Guia de Aprendizado? | **03 - Carreira Tech Inteligente** | [Consultar nota 03evidencias/03 - Carreira Tech Inteligente.pdf) |
-| 04 | Converse sobre o que essas fontes dizem de Reimaginação de Entrevistas de Engenharia, no contexto mais amplo de Recrutamento, IA e Manufatura Enxuta na Engenharia de Software? | **04 - Roteiro Tecnológico** | [Consultar nota 04](evidencias/04 - Roteiro Tecnológico.pdf) |
+| 01 | Como é o scripts das entrevista de emprego? | **01 - Engenharia Moderna** | [Consultar nota 01](evidencias/01%20-%20Engenharia%20Moderna.pdf) |
+| 02 | Como usar IA sem errar no código? | **02 - Prompting Eficiente** | [Consultar nota 02](evidencias/02%20-%20Prompting%20Eficiente.pdf) |
+| 03 | Quero saber mais sobre essas fontes usando o Guia de Aprendizado? | **03 - Carreira Tech Inteligente** | [Consultar nota 03](evidencias/03%20-%20Carreira%20Tech%20Inteligente.pdf) |
+| 04 | Converse sobre o que essas fontes dizem de Reimaginação de Entrevistas de Engenharia, no contexto mais amplo de Recrutamento, IA e Manufatura Enxuta na Engenharia de Software? | **04 - Roteiro Tecnológico** | [Consultar nota 04](evidencias/04%20-%20Roteiro%20Tecnol%C3%B3gico.pdf) |
 
 ### 01 — Engenharia Moderna
 
@@ -85,7 +85,7 @@ Assim, quem visita o repositório pode consultar os registros exportados sem dep
 
 **O que busquei entender:** a estrutura de entrevistas de emprego e como direcionar a preparação.
 
-**Resposta e fontes:** registradas na [nota 01 exportada em PDF](evidencias/01-engenharia-moderna.pdf). *Adicionar aqui uma síntese fiel da resposta após conferir o conteúdo do documento.*
+**Resposta e fontes:** registradas na [nota 01 exportada em PDF](evidencias/01%20-%20Engenharia%20Moderna.pdf). *Adicionar aqui uma síntese fiel da resposta após conferir o conteúdo do documento.*
 
 ### 02 — Prompting Eficiente
 
@@ -93,7 +93,7 @@ Assim, quem visita o repositório pode consultar os registros exportados sem dep
 
 **O que busquei entender:** práticas para utilizar IA no desenvolvimento sem abrir mão de análise, testes e validação.
 
-**Resposta e fontes:** registradas na [nota 02 exportada em PDF](evidencias/02-prompting-eficiente.pdf). *Adicionar aqui uma síntese fiel da resposta após conferir o conteúdo do documento.*
+**Resposta e fontes:** registradas na [nota 02 exportada em PDF](evidencias/02%20-%20Prompting%20Eficiente.pdf). *Adicionar aqui uma síntese fiel da resposta após conferir o conteúdo do documento.*
 
 ### 03 — Carreira Tech Inteligente
 
@@ -101,7 +101,7 @@ Assim, quem visita o repositório pode consultar os registros exportados sem dep
 
 **O que busquei entender:** como aprofundar o estudo do material por meio do Guia de Aprendizado.
 
-**Resposta e fontes:** registradas na [nota 03 exportada em PDF](evidencias/03-carreira-tech-inteligente.pdf). *Adicionar aqui uma síntese fiel da resposta após conferir o conteúdo do documento.*
+**Resposta e fontes:** registradas na [nota 03 exportada em PDF](evidencias/03%20-%20Carreira%20Tech%20Inteligente.pdf). *Adicionar aqui uma síntese fiel da resposta após conferir o conteúdo do documento.*
 
 ### 04 — Roteiro Tecnológico
 
@@ -109,7 +109,7 @@ Assim, quem visita o repositório pode consultar os registros exportados sem dep
 
 **O que busquei entender:** as conexões entre o recrutamento técnico, a adoção da IA e princípios de manufatura enxuta aplicados à engenharia de software.
 
-**Resposta e fontes:** registradas na [nota 04 exportada em PDF](evidencias/04-roteiro-tecnologico.pdf). *Adicionar aqui uma síntese fiel da resposta após conferir o conteúdo do documento.*
+**Resposta e fontes:** registradas na [nota 04 exportada em PDF](evidencias/04%20-%20Roteiro%20Tecnol%C3%B3gico.pdf). *Adicionar aqui uma síntese fiel da resposta após conferir o conteúdo do documento.*
 
 > **Como verificar a fundamentação:** comece pelo PDF da nota correspondente e confira se a exportação preservou as referências. Quando a referência não estiver visível no PDF, consulte a nota e as citações diretamente no [notebook compartilhado](https://notebook.google.com/notebook/6709501d-5562-4731-a762-ad93170b9e65). A presença de uma resposta no PDF, por si só, não comprova suas fontes.
 
@@ -138,17 +138,17 @@ Os registros são mantidos em dois locais:
 .
 ├── README.md
 ├── evidencias/
-│   ├── 01-engenharia-moderna.pdf
-│   ├── 02-prompting-eficiente.pdf
-│   ├── 03-carreira-tech-inteligente.pdf
-│   └── 04-roteiro-tecnologico.pdf
+│   ├── 01 - Engenharia Moderna.pdf
+│   ├── 02 - Prompting Eficiente.pdf
+│   ├── 03 - Carreira Tech Inteligente.pdf
+│   └── 04 - Roteiro Tecnológico.pdf
 └── materiais/
     ├── NotebookLM Mind Map.png
     ├── A_Nova_Era_das_Entrevistas_de_TI.pptx
     └── O_Fim_do_LeetCode_e_o_Novo_Engenheiro_de_Software.mp4
 ```
 
-> **Importante sobre os links:** os caminhos relativos acima dependem de os arquivos terem exatamente esses nomes e de serem adicionados nessas pastas. Até isso acontecer, os links não abrirão os materiais. Os PDFs das notas são as principais evidências exportadas; confirme se mostram as fontes ou complemente com capturas das citações, se necessário.
+> **Importante sobre os links:** os nomes das quatro evidências foram definidos com base nos títulos das notas, pois os nomes exatos dos PDFs não foram fornecidos. Ajuste-os caso os arquivos no GitHub estejam nomeados de outra maneira. Os links relativos dependem de os arquivos estarem nas pastas indicadas e respeitarem maiúsculas, espaços e acentos. Até isso acontecer, os links não abrirão os materiais. Os PDFs das notas são as principais evidências exportadas; confirme se mostram as fontes ou complemente com capturas das citações, se necessário.
 
 **Direitos autorais:** não publique PDFs de livros ou materiais de terceiros sem verificar a autorização de redistribuição. Quando não houver permissão, prefira incluir a referência bibliográfica e um link legítimo para o material original. Revise também eventuais informações pessoais antes de compartilhar notas e evidências.
 
