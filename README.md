@@ -74,10 +74,10 @@ Assim, quem visita o repositório pode consultar os registros exportados sem dep
 
 | # | Pergunta feita ao NotebookLM | Nota | Evidência em PDF |
 | --- | --- | --- | --- |
-| 01 | Como é o scripts das entrevista de emprego? | **01 - Engenharia Moderna** | [Consultar nota 01](evidencias/01-engenharia-moderna.pdf) |
-| 02 | Como usar IA sem errar no código? | **02 - Prompting Eficiente** | [Consultar nota 02](evidencias/02-prompting-eficiente.pdf) |
-| 03 | Quero saber mais sobre essas fontes usando o Guia de Aprendizado? | **03 - Carreira Tech Inteligente** | [Consultar nota 03](evidencias/03-carreira-tech-inteligente.pdf) |
-| 04 | Converse sobre o que essas fontes dizem de Reimaginação de Entrevistas de Engenharia, no contexto mais amplo de Recrutamento, IA e Manufatura Enxuta na Engenharia de Software? | **04 - Roteiro Tecnológico** | [Consultar nota 04](evidencias/04-roteiro-tecnologico.pdf) |
+| 01 | Como é o scripts das entrevista de emprego? | **01 - Engenharia Moderna** | [Consultar nota 01](evidencias/01 - Engenharia Moderna.pdf) |
+| 02 | Como usar IA sem errar no código? | **02 - Prompting Eficiente** | [Consultar nota 02](evidencias/02 - Prompting Eficiente.pdf) |
+| 03 | Quero saber mais sobre essas fontes usando o Guia de Aprendizado? | **03 - Carreira Tech Inteligente** | [Consultar nota 03evidencias/03 - Carreira Tech Inteligente.pdf) |
+| 04 | Converse sobre o que essas fontes dizem de Reimaginação de Entrevistas de Engenharia, no contexto mais amplo de Recrutamento, IA e Manufatura Enxuta na Engenharia de Software? | **04 - Roteiro Tecnológico** | [Consultar nota 04](evidencias/04 - Roteiro Tecnológico.pdf) |
 
 ### 01 — Engenharia Moderna
 
